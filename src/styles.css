@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+#dot {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 200px;
+  background-color: rgb(157, 84, 240);
+}
+.squ {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#btn1 {
+  padding: 15px 32px;
+  margin-top: 50px;
+  margin-left: 240px;
+  font-size: 16px;
+}
+#btn2 {
+  padding: 15px 30px;
+  margin-top: 10px;
+  margin-left: 240px;
+  font-size: 16px;
+}
